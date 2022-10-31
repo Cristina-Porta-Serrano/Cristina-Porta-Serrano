@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif" width="150"/>
 </div>
 
 <div id="badges" align="center">
@@ -13,14 +13,14 @@
 
 <h1 align="center">
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="50px"/>
 </h1>
+
 
 
 - 👋 Hi, I’m @Cristina-Porta-Serrano
 - 👀 I’m interested in so many things that you could consider is as Big Data
 - 🌱 I’m currently learning Machine Learning, Neural Networks
-- 💞️ I’m looking to collaborate on ...
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cristinaportaserrano/)
 
 
