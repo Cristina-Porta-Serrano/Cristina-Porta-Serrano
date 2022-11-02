@@ -19,7 +19,7 @@
 
 
 - 👋 Hi, I’m @Cristina-Porta-Serrano
-- 👀 I’m interested in so many things that you could consider is as Big Data
+- 👀 I’m interested in so many things that you could consider it as Big Data
 - 🌱 I’m currently learning Machine Learning, Neural Networks
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cristinaportaserrano/)
 
